@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Zeruhur's Games
 
-You can use the [editor on GitHub](https://github.com/zeruhur/games/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an amateur game designer and translator.
+My first discontinued ruleset was *2d6 Essentials* a stripped down version of the 2d6 Sci-Fi OGL. Its spiritual succesor its [*GIST!*](https://zeruhur.github.io/gist) a minimalistic generic ruleset designed to be hacked and expanded in full-fledged games or to be used for impromptu one-shots. [*Roamers of the Dream*](https://zeruhur.github.io/roamersofthedream) is my first application of *GIST!* core rules.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I contributed to the translation of [*Cepheus Engine*](https://cepheusengine.it/) and [*Basic Fantasy Role Playing Game*](https://www.basicfantasy.org/) in Italian.
 
-### Markdown
+## My games
+* [*GIST!*](https://zeruhur.github.io/gist)
+* [*Roamers of the Dream*](https://zeruhur.github.io/roamersofthedream)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My Italian Translations
+* [*Cepheus Engine*](https://cepheusengine.it/)
+* [*The GLOG*](https://zeruhur.itch.io/the-glog-ita)
+* [*Tira per le scarpe*](https://zeruhur.github.io/tiraperlescarpe)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeruhur/games/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Some Links
+* [My home page](https://zeruhur.space)
+* [Il tempio di Syrinx](https://zeruhur.github.io/syrinx) (my OSR italian blog)
+* [My itch.io page](https://zeruhur.itch.io/)
+* [My DriveTrhu Publisher page](https://www.drivethrurpg.com/browse/pub/18634/Wolf-Moon-Games)
