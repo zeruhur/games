@@ -1,5 +1,3 @@
-## Zeruhur's Games
-
 I am an amateur game designer and translator.
 My first discontinued ruleset was *2d6 Essentials* a stripped down version of the 2d6 Sci-Fi OGL. Its spiritual succesor its [*GIST!*](https://zeruhur.github.io/gist) a minimalistic generic ruleset designed to be hacked and expanded in full-fledged games or to be used for impromptu one-shots. [*Roamers of the Dream*](https://zeruhur.github.io/roamers-of-the-dream) is my first application of *GIST!* core rules.
 
