@@ -4,9 +4,9 @@ My first discontinued ruleset was *2d6 Essentials* a stripped down version of th
 I contributed to the translation of [*Cepheus Engine*](https://cepheusengine.it/) and [*Basic Fantasy Role Playing Game*](https://www.basicfantasy.org/) in Italian.
 
 ## My games
-* [*GIST!*](https://zeruhur.github.io/gist)
-* [*Roamers of the Dream*](https://zeruhur.github.io/roamers-of-the-dream)
-* [*Binary Trinity*](/binary_trinity.md)
+* [*GIST!*](https://zeruhur.github.io/gist) (ENG & ITA)
+* [*Roamers of the Dream*](https://zeruhur.github.io/roamers-of-the-dream) (ENG)
+* [*Binary Trinity*](/binary_trinity.md) (ENG & ITA)
 
 ## My Italian Translations
 * [*Cepheus Engine*](https://cepheusengine.it/)
