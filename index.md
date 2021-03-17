@@ -6,7 +6,7 @@ I contributed to the translation of [*Cepheus Engine*](https://cepheusengine.it/
 ## My games
 * [*GIST!*](https://zeruhur.github.io/gist) (ENG & ITA)
 * [*Roamers of the Dream*](https://zeruhur.github.io/roamers-of-the-dream) (ENG)
-* [*Binary Trinity*](/binary_trinity.md) (ENG & ITA)
+* [*Binary Trinity*](https://zeruhur.github.io/binarytrinity) (ENG & ITA)
 
 ## My Italian Translations
 * [*Cepheus Engine*](https://cepheusengine.it/)
