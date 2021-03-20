@@ -10,8 +10,9 @@ I contributed to the translation of [*Cepheus Engine*](https://cepheusengine.it/
 
 ## My Italian Translations
 * [*Cepheus Engine*](https://cepheusengine.it/)
-* [*The GLOG*](https://zeruhur.itch.io/the-glog-ita)
+* [*The GLOG*](https://zeruhur.itch.io/the-glog-ita) ([versione web](https://zeruhur.github.io/the-glog-ita))
 * [*Tira per le scarpe*](https://zeruhur.github.io/tiraperlescarpe)
+* [*so1um*](https://zeruhur.github.io/so1um)
 
 ## Some Links
 * [My home page](https://zeruhur.space)
