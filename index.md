@@ -9,14 +9,15 @@ I contributed to the translation of [*Cepheus Engine*](https://cepheusengine.it/
 * [*Binary Trinity*](https://zeruhur.github.io/binarytrinity) (ENG & ITA)
 * [*so1um enhanced*](https://zeruhur.github.io/so1um-enhanced/) (ENG)
 * [*Loner*](https://zeruhur.github.io/loner/)
+* [*The Black Pit*](https://zeruhur.itch.io/the-black-pit)
 
 ## My Italian Translations
 * [*Cepheus Engine*](https://cepheusengine.it/)
 * [*The GLOG*](https://ita-translation-alliance.itch.io/the-glog-ita) ([versione web](https://italiantranslationalliance.org/the-glog-ita))
 * [*Tira per le scarpe*](https://zeruhur.github.io/tiraperlescarpe)
 * [*so1um*](https://zeruhur.github.io/so1um)
-* [*Risus*](https://zeruhur.itch.io/risus)
-* [*The 9Qs (John Fiore)](https://zeruhur.itch.io/i-9-quesiti)
+* [*Risus*](https://zeruhur.itch.io/risus-il-qualsiasi-gdr)
+* [*The 9Qs (John Fiore)](https://zeruhur.itch.io/i9-quesiti)
 
 ## Some Links
 * [My home page](https://zeruhur.space)
